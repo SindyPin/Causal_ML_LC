@@ -1,6 +1,4 @@
-# Causal\_ML\_LC
-
-## Causal Machine‑Learning Framework for Early Detection of Long COVID
+# Causal Machine‑Learning Framework for Early Detection of Long COVID
 
 This repository hosts **all code, notebooks and supplementary material** required to reproduce the results reported in our paper:
 
