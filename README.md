@@ -27,7 +27,7 @@ The camera‑ready PDF is found in `docs/`, while Supplementary Material 1 (gen
 
 The figure below summarises the workflow.
 
-![Workflow overview](docs/Workflow.png)
+![Workflow overview](Workflow.png)
 
 We implement the framework as a two‑stage pipeline:
 1. **Selects biologically grounded transcriptomic features** using *Differential Causal Effects* (DCE) between Long COVID and acute COVID (R script DCE.R; dataset‑wide summary results in sm/SM1_DCE_Significant_Genes_Pathways_COVID_LC.xlsx).
