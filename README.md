@@ -1,8 +1,8 @@
-# Causal Machine‑Learning Framework for Early Detection of Long COVID
+# TACO: TabPFN-Augmented Causal Outcomes for Early Detection of Long COVID
 
 This repository hosts **all code, notebooks and supplementary material** required to reproduce the results reported in our paper:
 
-> Piñero S *et al.* (2025) *Causal Machine‑Learning Framework for Early Detection of Long COVID* (CIKM ’25).
+> Piñero S *et al.* (2025) *TACO: TabPFN-Augmented Causal Outcomes for Early Detection of Long COVID* (CIKM ’25).
 
 The Supplementary Materials (gene & pathway lists and full model metrics) are in `SM/`.
 
