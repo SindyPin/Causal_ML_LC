@@ -4,7 +4,7 @@ This repository hosts **all code, notebooks and supplementary material** require
 
 > Piñero S *et al.* (2025) *Causal Machine‑Learning Framework for Early Detection of Long COVID* (CIKM ’25).
 
-The camera‑ready PDF is found in `docs/`, while Supplementary Material 1 (gene & pathway lists) and Supplementary Material 2 (full model metrics) are in `sm/`.
+The Supplementary Materials (gene & pathway lists and full model metrics) are in `SM/`.
 
 ---
 
