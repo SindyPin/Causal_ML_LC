@@ -1,4 +1,4 @@
-# TACO: TabPFN-Augmented Causal Outcomes for Early Detection of Long COVID
+# Causal Feature Selection from Multi-Omics Data Enhances Machine Learning Performance of Long COVID Early Detection
 
 This repository hosts **all code, notebooks and supplementary material** required to reproduce the results reported in our paper:
 
